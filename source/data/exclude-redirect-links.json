@@ -1,66 +1,66 @@
 [
     {
       "origin": "https://ams-sga.cra-arc.gc.ca/gol-ged/awsc/amss/entry", 
-      "destination": "https://cra-design.github.io/sign-in/en/task-one-success.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/task-one-success.html"
     }, 
     {
       "origin": "https://ams-sga-cra-arc.fjgc-gccf.gc.ca/gol-ged/awsc/amss/commonDomain/w", 
-      "destination": "https://cra-design.github.io/sign-in/en/task-one-success.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/task-one-success.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/provincial-partner.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/task-one-success.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/task-one-success.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/about-cra-sign-in-services.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/about-cra-sign-in-services.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/about-cra-sign-in-services.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/cra-userid-password.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/cra-userid-password.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/cra-userid-password.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/locked-account.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/locked-account.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/locked-account.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/multi-factor-authentication.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/multi-factor-authentication.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/multi-factor-authentication.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/provincial-partners.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/provincial-partners.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/provincial-partners.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/sign-in-partners.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/sign-in-partners.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/sign-in-partners.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/verify-identity.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/verify-identity.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/help-cra-sign-in-services/verify-identity.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/register-cra-sign-in-services.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/cra-login-services/register-cra-sign-in-services.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/cra-login-services/register-cra-sign-in-services.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account/about-business-account.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/digital-services-businesses/business-account/about-business-account.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/digital-services-businesses/business-account/about-business-account.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/about-account.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/digital-services-individuals/about-account.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/digital-services-individuals/about-account.html"
     }, 
     {
       "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client/about-represent-a-client.html", 
-      "destination": "https://cra-design.github.io/sign-in/en/represent-a-client/about-represent-a-client.html"
+      "destination": "https://cra-proto.github.io/sign-in/en/represent-a-client/about-represent-a-client.html"
     }
 ]
